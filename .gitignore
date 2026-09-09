@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Large / generated datasets
+data/processed/*.csv
+results/*.csv
+
+# Model artifacts
+models/*.pkl
+models/*.pth
+models/*.h5
+models/*.keras
+
+# Temporary files
+.DS_Store
+*.log
+*.tmp
+
+# OS
+Thumbs.db
