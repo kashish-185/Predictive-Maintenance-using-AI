@@ -406,6 +406,19 @@ Potential extensions include:
 - advanced fleet-level maintenance optimization
 
 ---
+## 🌐 Live Demo
+
+🚀 **[Open the Live Predictive Maintenance Dashboard](https://predictive-maintenance-using-ai.onrender.com/)**
+
+The deployed application provides an interactive interface for:
+
+- Engine-level RUL prediction
+- Fleet health monitoring
+- Health-status classification
+- Maintenance recommendations
+- ML-powered predictive maintenance analysis
+
+> **Note:** The live application is a demonstration using the NASA C-MAPSS FD001 benchmark dataset. It is intended for research and portfolio demonstration rather than real aircraft maintenance decisions.
 
 ## 👤 Author
 
