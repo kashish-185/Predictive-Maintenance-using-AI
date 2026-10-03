@@ -135,6 +135,9 @@ The final test predictions ranged approximately from **8.42 to 202.80 cycles**, 
 The project includes **SHAP (SHapley Additive exPlanations)** for model interpretation.
 
 SHAP feature attributions help identify which engineered sensor signals contribute most strongly to individual RUL predictions and provide greater transparency into model behavior.
+### SHAP Feature Importance
+
+![SHAP Feature Importance](figures/shap_summary.png)
 
 The generated SHAP visualization is available at:
 
